@@ -29,6 +29,5 @@ public class Variables {
         System.out.println("friend = " +friend);
 
 
-
     }
 }
