@@ -7,19 +7,28 @@ public class Variables {
         var paper = 763789;
         System.out.println("paper = " +paper);
 
-        dog = dog + 4;
+        dog = dog +4;
         System.out.println("dog = " +dog);
         cat = cat +4;
         System.out.println("cat = " +cat);
         paper = paper +4;
         System.out.println("paper = " +paper);
 
-        dog = dog - 3.5;
+        dog = dog -3.5;
         System.out.println("dog = " +dog);
-        cat = cat - 1.6;
+        cat = cat -1.6;
         System.out.println("cat = " +cat);
-        paper = paper - 7639;
+        paper = paper -7639;
         System.out.println("paper = " +paper);
+
+        var friend = 19;
+        System.out.println("friend = " +friend);
+        friend = friend +2;
+        System.out.println("friend = " +friend);
+        friend = friend /7;
+        System.out.println("friend = " +friend);
+
+
 
     }
 }
