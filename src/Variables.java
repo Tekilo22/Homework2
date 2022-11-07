@@ -28,6 +28,14 @@ public class Variables {
         friend = friend /7;
         System.out.println("friend = " +friend);
 
+        var frog = 3.5;
+        frog = frog *10;
+        System.out.println("frog = " +frog);
+        frog = frog /3.5;
+        System.out.println("frog = " +frog);
+        frog = frog +4;
+        System.out.println("frog = " +frog);
+
 
     }
 }
